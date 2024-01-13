@@ -1,5 +1,6 @@
 # CapstoneProject-Afterwards
 A repository dedicated to documenting and preserving the achievements of my capstone project - Senior at Seoultech, ITM
+> NOTICE Original repository has been transitioned to private due to technology transfer
 
 :tada: Finally,
 web service has been fully transferred to DATATREE _- strategic data solutions corp_, as the service named **DT-Clean**.  
@@ -23,7 +24,7 @@ Please reach out customer inquires (http://datatree.kr/cs/cs04.php) to find more
 
 <div align=center> 
 
-:point_down::point_down: Official Presentation by [Authors](#authors)
+:point_down::point_down: [Official Presentation](https://youtu.be/Z4qle-THivc?si=Nz-MazOzKDzitkEn) by [Authors](#authors)
 [![Presentation from Mahidol Univ.](http://img.youtube.com/vi/Z4qle-THivc/0.jpg)](https://youtu.be/Z4qle-THivc?si=Nz-MazOzKDzitkEn)
 </div>
 
