@@ -47,7 +47,7 @@ The primary goal is to create a robust web service solution for enhancing the qu
 
 **2. Error Conversion**  
     By selecting detected errors to be converted, user can get clean data effectively. 
-> Suported options are followings:  
+> Supported options are followings:  
     automatic conversion, manual conversion
 
 **3. Result Visaulization**  
